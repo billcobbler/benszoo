@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/monkey.wav-ac5351365d11bf331ba1ee2660bac402.sample"
+
+[deps]
+
+source_file="res://sfx/monkey.wav"
+dest_files=[ "res://.import/monkey.wav-ac5351365d11bf331ba1ee2660bac402.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
